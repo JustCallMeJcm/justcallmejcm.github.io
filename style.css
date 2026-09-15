@@ -39,19 +39,6 @@ body {
   margin-bottom: 28px;
 }
 
-.avatar {
-  width: 86px;
-  height: 86px;
-  margin: 0 auto 18px;
-  display: grid;
-  place-items: center;
-  border: 1px solid var(--border);
-  border-radius: 50%;
-  background: var(--card);
-  font-size: 32px;
-  font-weight: 700;
-}
-
 .profile h1 {
   margin: 0;
   font-size: 2rem;
